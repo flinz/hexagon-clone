@@ -3,7 +3,7 @@
 #include <math.h>
 #include <deque>
 #include <GLUT/glut.h>
-
+s
 const int circPoints = 30;
 float gamespeed = 1.;
 
